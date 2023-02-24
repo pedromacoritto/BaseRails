@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@activeadmin-plugins/active_admin_theme": "^1.1.4"
+  }
+}
